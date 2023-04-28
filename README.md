@@ -21,5 +21,5 @@
   <a href="https://www.youtube.com/c/tanusszabo" target="_blank">
     <img src="https://github.com/tanusszabo/tanusszabo/blob/main/logos/youtube.svg" align="center" height="68" width="256"></a>
   <a href="https://www.instagram.com/tanusszabo" target="_blank">
-    <img src="https://raw.githubusercontent.com/tanusszabo/tanusszabo/31a73e85367be0953ab5640e7d64be0f170a4e9c/logos/instagram.svg" align="center" height="68" width="256"></a>
+    <img src="https://github.com/tanusszabo/tanusszabo/blob/main/logos/instagram.svg" align="center" height="68" width="256"></a>
 </div>
