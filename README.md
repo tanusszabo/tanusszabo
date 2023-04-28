@@ -5,21 +5,21 @@
 </div>
 
 <div style="display: inline_block" align="center"><br>
-  <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-  <img align="center" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fortran_logo.svg">
-  <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
+  <img align="center" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+  <img align="center" height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fortran_logo.svg">
+  <img align="center" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
 </div>
 
 <br />
 
 <div>
   <a href="mailto:tanusszabo@gmail.com" target="_blank">
-    <img src="https://github.com/tanusszabo/tanusszabo/blob/main/logos/gmail.svg" align="center" height="68" width="256"></a>
+    <img src="https://github.com/tanusszabo/tanusszabo/blob/main/logos/gmail.svg" align="center" width="150"></a>
   <a href="https://www.linkedin.com/in/tanusszabo/" target="_blank">
-    <img src="https://github.com/tanusszabo/tanusszabo/blob/main/logos/linkedin.svg" align="center" height="68" width="256"></a>
+    <img src="https://github.com/tanusszabo/tanusszabo/blob/main/logos/linkedin.svg" align="center" width="150"></a>
   <a href="https://www.youtube.com/c/tanusszabo" target="_blank">
-    <img src="https://github.com/tanusszabo/tanusszabo/blob/main/logos/youtube.svg" align="center" height="68" width="256"></a>
+    <img src="https://github.com/tanusszabo/tanusszabo/blob/main/logos/youtube.svg" align="center" width="150"></a>
   <a href="https://www.instagram.com/tanusszabo" target="_blank">
-    <img src="https://github.com/tanusszabo/tanusszabo/blob/main/logos/instagram.svg" align="center" height="68" width="256"></a>
+    <img src="https://github.com/tanusszabo/tanusszabo/blob/main/logos/instagram.svg" align="center" width="150"></a>
 </div>
