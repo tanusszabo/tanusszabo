@@ -15,7 +15,7 @@
 
 <div>
   <a href="mailto:tanusszabo@gmail.com" target="_blank">
-    <img src="https://github.com/tanusszabo/tanusszabo/blob/main/logos/gmail.svg" align="center" height="80" width="280"></a>
+    <img src="https://github.com/tanusszabo/tanusszabo/blob/main/logos/gmail.svg" align="center" height="68" width="256"></a>
   <a href="https://www.linkedin.com/in/tanusszabo/" target="_blank">
     <img src="https://github.com/tanusszabo/tanusszabo/blob/main/logos/linkedin.svg" align="center" height="68" width="256"></a>
   <a href="https://www.youtube.com/c/tanusszabo" target="_blank">
