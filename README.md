@@ -12,8 +12,12 @@
 </div>
 
 <div>
-  <a href="mailto:tanusszabo@gmail.com" target="_blank"><img src="https://github.com/tanusszabo/tanusszabo/blob/main/logos/gmail.svg" style="background-color:red;"></a>
-  <a href="https://www.linkedin.com/in/tanusszabo/" target="_blank"><img src="https://github.com/tanusszabo/tanusszabo/blob/main/logos/linkedin.svg" style="background-color:red;"></a>
-  <a href="https://www.youtube.com/c/tanusszabo" target="_blank"><img src="https://github.com/tanusszabo/tanusszabo/blob/main/logos/youtube.svg" style="background-color:red;"></a>
-  <a href="https://www.instagram.com/tanusszabo/" target="_blank"><img src="https://github.com/tanusszabo/tanusszabo/blob/main/logos/intagram.svg" style="background-color:red;"></a>
+  <a href="mailto:tanusszabo@gmail.com" target="_blank">
+    <img src="https://github.com/tanusszabo/tanusszabo/blob/main/logos/gmail.svg" align="center" height="40" width="200"></a>
+  <a href="https://www.linkedin.com/in/tanusszabo/" target="_blank">
+    <img src="https://github.com/tanusszabo/tanusszabo/blob/main/logos/linkedin.svg" align="center" height="40" width="200"></a>
+  <a href="https://www.youtube.com/c/tanusszabo" target="_blank">
+    <img src="https://github.com/tanusszabo/tanusszabo/blob/main/logos/youtube.svg" align="center" height="40" width="200"></a>
+  <a href="https://www.instagram.com/tanusszabo" target="_blank">
+    <img src="https://github.com/tanusszabo/tanusszabo/blob/main/logos/instagram.svg" align="center" height="40" width="200"></a>
 </div>
