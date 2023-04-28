@@ -1,8 +1,8 @@
 <svg 
     xmlns="http://www.w3.org/2000/svg" 
-    height="80" 
     width="320"
-    viewBox="-20 -3 546 120">
+    height="85"
+    viewBox="-45 -16 600 150">
     <path 
         d="M -100 -100 l 0 1000 l 1000 0 l 0 -1000 z" 
         style="fill:#FF0000"/>
