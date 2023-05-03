@@ -1,22 +1,14 @@
-<?xml version="1.0" standalone="no"?>
-<svg width="400" height="400"
-     xmlns="http://www.w3.org/2000/svg">
-  <desc>This graphic links to an external image
-  </desc>
+ <svg width="400" height="400" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <image x="0" y="0" width="160" height="160"
-         href="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-    <title>My image</title>
+         xlink:href="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   </image>
   <image x="200" y="0" width="160" height="160"
-         href="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fortran_logo.svg">
-    <title>My image</title>
+         xlink:href="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fortran_logo.svg">
   </image>
   <image x="0" y="200" width="160" height="160"
-         href="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
-    <title>My image</title>
+         xlink:href="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
   </image>
   <image x="200" y="200" width="160" height="160"
-         href="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
-    <title>My image</title>
+         xlink:href="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
   </image>
 </svg>
