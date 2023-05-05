@@ -31,5 +31,3 @@
   <a href="https://www.instagram.com/tanusszabo" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&logoWidth=10.75" align="center" width=150></a>
 </div>
-
-<img src="logos/gmail.svg"> </img>
